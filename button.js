@@ -1,6 +1,6 @@
 const button=document.querySelector('button')
 const body=document.querySelector('body')
-const color=['blue','black','green','aqua','brown','gray','violet']
+const color=['blue','black','green','aqua','brown','gray','violet','white','orange','red','pink','yellow',]
 
 body.style.backgroundColor= 'violet'
 
